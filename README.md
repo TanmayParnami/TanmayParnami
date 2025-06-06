@@ -1,7 +1,9 @@
-
+<div>
 <h1  align = "center" >Hi 👋, I'm Tanmay</h1>
 <p align = "center" >An Aspiring Software Developer / Data Engineer </p>
 <p align = "center" ><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TanmayParnami" alt="TanmayParnami" /></a></p></n></br>
+  <h2 align = "center" tabindex="-1" class="heading-element" dir="auto">🌐 Socials:</h2>
+<p align = "center"><a href="https://linkedin.com/in/tanmay-parnami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></p></br>
 <h2 align = "center">🚀 Languages and Tools I Use :</h2>
 <p align = "center" ><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -25,14 +27,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p></br>
-<h2 align = "center" tabindex="-1" class="heading-element" dir="auto">🌐 Socials:</h2>
 
-<p align = "center"><a href="https://linkedin.com/in/tanmay-parnami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></p></br>
 
 <h1 align = "center" class="heading-element" dir="auto">📊 GitHub Stats:</h1><br/>
 
 <p align = "center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=TanmayParnami&show_icons=true&locale=en&theme=dark&hide_border=false" alt="TanmayParnami" /></p><br/>
 <p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayParnami&theme=dark&hide_border=false)" alt="TanmayParnami" /></p><br/>
 <p align = "center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayParnami&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="TanmayParnami" /></p><br/>
-<h3 align = "center" >✌️ Happy Coding!!</h3>
-
+<h1 align = "center" >✌️ Happy Coding!!</h1>
