@@ -30,8 +30,8 @@
 
 
 <h1 align = "center" class="heading-element" dir="auto">📊 GitHub Stats:</h1><br/>
-
+<p align = "center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayParnami&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="TanmayParnami" /></p><br/>
 <p align = "center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=TanmayParnami&show_icons=true&locale=en&theme=dark&hide_border=false" alt="TanmayParnami" /></p><br/>
 <p align = "center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayParnami&theme=dark&hide_border=false)" alt="TanmayParnami" /></p><br/>
-<p align = "center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=TanmayParnami&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="TanmayParnami" /></p><br/>
+
 <h1 align = "center" >✌️ Happy Coding!!</h1>
